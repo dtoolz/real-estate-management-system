@@ -1,0 +1,1 @@
+# This is a professional real estate management system built with bootstrap, ajax, jquery, php and mysql.
